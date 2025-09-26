@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YakunZhou
+- 👋 Hi, I’m @YakunZhou(Kevin)
 - 👀 I’m interested in GIS, Remote Sencing
 - 🌱 I’m currently learning Geomatics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Geo
 - 📫 How to reach me- phone:4379850411
 
 <!---
